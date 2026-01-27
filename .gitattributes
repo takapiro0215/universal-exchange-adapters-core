@@ -1,0 +1,5 @@
+﻿*.py text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+requirements.txt text eol=lf
