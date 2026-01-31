@@ -112,3 +112,22 @@ Operational responsibility layers are kept private by design:
 
 This separation exists to prevent context collapse and unsafe replication.
 No performance or profitability claims are made.
+
+### System Map (High-level)
+
+```mermaid
+flowchart TB
+  subgraph Public["Public Core (Open)"]
+    A["Adapters + Guards + Safe Tooling"]
+  end
+
+  subgraph Private["Private Heart (Controlled)"]
+    B["Ops Governance"]
+    C["Config Control Plane"]
+    D["Heart Binding\n(capital/state/execution)"]
+  end
+
+  A --> C
+  B --> D
+  C --> D
+```
