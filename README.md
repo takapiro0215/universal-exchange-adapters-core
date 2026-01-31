@@ -100,3 +100,15 @@ This public core ships with defensive operational tools:
 
 ```bash
 PYTHONPATH=. python tools/order_smoke_test.py
+
+## Private Heart (Controlled)
+
+This public repository is intentionally limited to a survivability interface layer.
+
+Operational responsibility layers are kept private by design:
+- Ops governance (shutdown / recovery / monitoring / incident discipline)
+- Control-plane configuration schemas (structural, not tuned defaults)
+- Heart components binding capital, state, and execution authority
+
+This separation exists to prevent context collapse and unsafe replication.
+No performance or profitability claims are made.
