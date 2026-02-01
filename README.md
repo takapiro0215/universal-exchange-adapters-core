@@ -135,3 +135,7 @@ flowchart TB
 Operational responsibility layers are intentionally distributed in controlled form.
 If you are an operator seeking survivability governance materials (Ops/Config packs),
 contact: ueh.enterprise@gmail.com — access is exception-based and refusal requires no justification.
+
+---
+
+See: `TECHNICAL_BRIEF.md` for a survivability-first overview.
