@@ -67,6 +67,34 @@ The Mountain never guesses.
 
 ---
 
+## Supported Exchanges (Public Proof / NO-EXEC)
+
+UEH publishes **market-data proof demos only** in the public core repository.
+No execution modules are included.
+
+**Public proof demos:**
+
+- Bybit — market-data demo (NO-EXEC)
+- bitFlyer (Japan) — market-data demo (NO-EXEC)
+- MEXC (Global) — market-data demo (NO-EXEC)
+- Binance (Japan) — market-data demo (NO-EXEC)
+- Coincheck (Japan) — market-data demo (NO-EXEC)
+- OKCoin Japan — market-data demo (NO-EXEC)
+- Bitget — ticker-only proof (NO-EXEC)
+
+**Docs & References:**
+
+- Japan Exchange Ready: `docs/japan.html`
+- Whitepaper (Austere PDF): `docs/UEH_Whitepaper_Austere.pdf`
+
+**Commercial boundary:**
+
+- Private delivery includes constraints packs + ops templates under controlled terms.
+- Delivery begins only after Boundary Acknowledgement + Payment Confirmation.
+- Contact: ueh.enterprise@gmail.com
+
+---
+
 ## What This Repository Is NOT
 
 ❌ A trading strategy  
