@@ -58,13 +58,6 @@ The Mountain never guesses.
 - region bans  
 - operational mistakes  
 
-✅ Extendable foundation for:
-
-- Bybit  
-- MEXC  
-- Binance (planned)  
-- Bitget (planned)
-
 ---
 
 ## Supported Exchanges (Public Proof / NO-EXEC)
