@@ -59,6 +59,12 @@ The Mountain never guesses.
 - operational mistakes  
 
 ---
+## Supported Exchanges (Public Proof / NO-EXEC)
+
+➡️ Commercial access request: see `commercial_access.md`
+
+UEH publishes **market-data proof demos only** in the public core repository.
+---
 
 ## Supported Exchanges (Public Proof / NO-EXEC)
 
